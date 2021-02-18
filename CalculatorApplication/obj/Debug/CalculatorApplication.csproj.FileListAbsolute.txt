@@ -1,0 +1,10 @@
+C:\Users\Sarke\Documents\Visual Studio 2019\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+C:\Users\Sarke\Documents\Visual Studio 2019\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+C:\Users\Sarke\Documents\Visual Studio 2019\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+C:\Users\Sarke\Documents\Visual Studio 2019\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csprojAssemblyReference.cache
+C:\Users\Sarke\Documents\Visual Studio 2019\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.Form1.resources
+C:\Users\Sarke\Documents\Visual Studio 2019\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.Properties.Resources.resources
+C:\Users\Sarke\Documents\Visual Studio 2019\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.GenerateResource.cache
+C:\Users\Sarke\Documents\Visual Studio 2019\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\Sarke\Documents\Visual Studio 2019\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+C:\Users\Sarke\Documents\Visual Studio 2019\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
